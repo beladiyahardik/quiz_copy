@@ -87,7 +87,7 @@ const Appbar = () => {
                         component="div"
                         style={{ color: "#30d158", fontWeight: "bold" }}
                     >
-                        Thorient Quiz
+                        Play Quiz
                     </Typography>
                     <IconButton className='coin_header'>
                         <Image alt='' src={coins} width={30} height={30} />

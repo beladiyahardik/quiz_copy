@@ -32,14 +32,14 @@ export default function RootLayout({
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7783949773484647"
             strategy="beforeInteractive"
             crossOrigin="anonymous" />
-          <Script async src="https://www.googletagmanager.com/gtag/js?id=G-KLESQGYNV7" />
+          <Script async src="https://www.googletagmanager.com/gtag/js?id=G-RKWPPSGNRE" />
           <script
             dangerouslySetInnerHTML={{
               __html: `
                   window.dataLayer = window.dataLayer || [];
                   function gtag(){dataLayer.push(arguments);}
                   gtag('js', new Date());
-                  gtag('config', 'G-KLESQGYNV7', {
+                  gtag('config', 'G-RKWPPSGNRE', {
                     page_path: window.location.pathname,
                   });
                 `,
